@@ -1,0 +1,6 @@
+framework module Pods_Education_Network {
+  umbrella header "Pods-Education Network-umbrella.h"
+
+  export *
+  module * { export * }
+}
